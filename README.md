@@ -1,4 +1,3 @@
-# -Vision-Assist-Real-Time-Object-Detection-for-the-Visually-Impaired
 # 👁️‍🗨️ Vision Assist — Real-Time Object Detection for the Visually Impaired
 
 Empowering visually impaired individuals with AI-powered real-time object detection and multilingual audio feedback.  
