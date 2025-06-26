@@ -1,0 +1,15 @@
+# Core
+ultralytics>=8.2.0      # YOLOv5/8 models & utils
+opencv-python>=4.9.0
+torch>=2.0.0
+pyttsx3>=2.90
+
+# (optional, for saving logs / metrics)
+numpy
+ultralytics>=8.2.0
+opencv-python>=4.9.0
+torch>=2.0.0
+pyttsx3>=2.90
+gTTS>=2.5.1          # NEW
+playsound>=1.2.2     # NEW  (simple audio playback for gTTS)
+numpy
